@@ -16,3 +16,4 @@ C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonito
 C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Cli\obj\Debug\net10.0\TemperatureMonitor.Cli.pdb
 C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Cli\obj\Debug\net10.0\TemperatureMonitor.Cli.genruntimeconfig.cache
 C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Cli\obj\Debug\net10.0\ref\TemperatureMonitor.Cli.dll
+C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Cli\obj\Debug\net10.0\TemperatureMonitor.Cli.sourcelink.json

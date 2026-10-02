@@ -270,3 +270,4 @@ C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonito
 C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Tests\obj\Debug\net10.0\TemperatureMonitor.Tests.pdb
 C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Tests\obj\Debug\net10.0\TemperatureMonitor.Tests.genruntimeconfig.cache
 C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Tests\obj\Debug\net10.0\ref\TemperatureMonitor.Tests.dll
+C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Tests\obj\Debug\net10.0\TemperatureMonitor.Tests.sourcelink.json
