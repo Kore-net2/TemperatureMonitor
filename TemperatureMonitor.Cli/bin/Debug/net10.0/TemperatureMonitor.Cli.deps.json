@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TemperatureMonitor.Cli/1.0.0": {
+        "dependencies": {
+          "TemperatureMonitor.Core": "1.0.0"
+        },
+        "runtime": {
+          "TemperatureMonitor.Cli.dll": {}
+        }
+      },
+      "TemperatureMonitor.Core/1.0.0": {
+        "runtime": {
+          "TemperatureMonitor.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemperatureMonitor.Cli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TemperatureMonitor.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

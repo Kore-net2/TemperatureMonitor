@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TemperatureMonitor.Cli/TemperatureMonitor.Cli.csproj" />
+  <Project Path="TemperatureMonitor.Core/TemperatureMonitor.Core.csproj" />
+  <Project Path="TemperatureMonitor.Tests/TemperatureMonitor.Tests.csproj" />
+</Solution>

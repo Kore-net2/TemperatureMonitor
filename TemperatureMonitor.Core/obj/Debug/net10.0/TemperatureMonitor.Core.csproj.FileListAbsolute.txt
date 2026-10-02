@@ -1,0 +1,11 @@
+C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Core\obj\Debug\net10.0\TemperatureMonitor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Core\obj\Debug\net10.0\TemperatureMonitor.Core.AssemblyInfoInputs.cache
+C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Core\obj\Debug\net10.0\TemperatureMonitor.Core.AssemblyInfo.cs
+C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Core\obj\Debug\net10.0\TemperatureMonitor.Core.csproj.CoreCompileInputs.cache
+C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Core\bin\Debug\net10.0\TemperatureMonitor.Core.deps.json
+C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Core\bin\Debug\net10.0\TemperatureMonitor.Core.dll
+C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Core\bin\Debug\net10.0\TemperatureMonitor.Core.pdb
+C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Core\obj\Debug\net10.0\TemperatureMonitor.Core.dll
+C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Core\obj\Debug\net10.0\refint\TemperatureMonitor.Core.dll
+C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Core\obj\Debug\net10.0\TemperatureMonitor.Core.pdb
+C:\Users\nural\OneDrive\Desktop\Week2-Lab2-starter (1)\starter\TemperatureMonitor.Core\obj\Debug\net10.0\ref\TemperatureMonitor.Core.dll
